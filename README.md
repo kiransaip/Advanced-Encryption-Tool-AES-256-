@@ -99,6 +99,4 @@ Decrypt File
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/c3b45258-f0d2-4de8-8b4b-0ea78155cbd0" />
 
 
-👤 Author
-
-  KiranSai Pasupuleti
+👤 Author : KiranSai Pasupuleti
