@@ -86,4 +86,18 @@ Decrypt File
 
 # OUTPUT 
 
+ ->GUI
+ 
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/dc2f9026-7f77-42e3-9d46-70437d2b8181" />
 
+ ->ENCRYPTION
+ 
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/082f1b67-3278-4bec-a608-35abcf12d329" />
+
+ ->DECRYPTION
+ 
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/c3b45258-f0d2-4de8-8b4b-0ea78155cbd0" />
+
+
+👤 Author
+  KiranSai Pasupuleti
